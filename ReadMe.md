@@ -103,11 +103,7 @@
 - Built and led cross-functional teams from 3 to 50+ people
 - Fan of hackathons, startup competitions, and AI for good
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calebheinzman&show_icons=true&theme=default" alt="Caleb's GitHub Stats" />
-</p>
 
 <!--
 Feel free to reach out for collaboration, consulting, or speaking engagements!
