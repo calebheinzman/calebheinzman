@@ -58,9 +58,8 @@
 
 ### 📚 Publications
 
-- **LMMs for Histopathology** (ICAIP 2025): Patch classification with GPT/Gemini LMMs ([Summary](#))
-- **From CNNs to Transformers** (ICAIP 2025): Mycobacteria detection, ViT benchmarks, augmentation ([Summary](#))
-
+- **LMMs for Histopathology** (ICAIP 2025): Patch classification with GPT/Gemini LMMs
+- **From CNNs to Transformers** (ICAIP 2025): Mycobacteria detection, ViT benchmarks, augmentation
 ---
 
 ### 👔 Experience Highlights
